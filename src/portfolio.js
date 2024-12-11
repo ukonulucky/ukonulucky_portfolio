@@ -16,7 +16,7 @@ const greeting = {
     "I'm a passionate Full-Stack Developer 🚀 with expertise in building dynamic, user-friendly web and mobile apps. I work with React.js / React Native / JavaScript / Node.js / Bootstrap / Material UI / Tailwind CSS / SASS / Docker / CI-CD / Firebase and other modern frameworks to create seamless, responsive experiences for both desktop and mobile platforms."
   ),
   resumeLink:
-    "https://docs.google.com/document/d/1Vskj0UFnv7vOXlRTDK0L6LC44GViP8qx/edit",
+    "https://drive.google.com/file/d/1qwqoACJ9cS0UpCJS1hjpkG0aIC1Pg9Ap/view",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
