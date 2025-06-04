@@ -13,10 +13,10 @@ const greeting = {
   username: "Ukonu Lucky Ifeanyichukwu",
   title: "Hi Friends, I'm Lucky",
   subTitle: emoji(
-    "I'm a passionate Full-Stack Developer 🚀 with expertise in building dynamic, user-friendly web and mobile apps. I work with React.js / React Native / JavaScript / Node.js / Bootstrap / Material UI / Tailwind CSS / SASS / Docker / CI-CD / Firebase and other modern frameworks to create seamless, responsive experiences for both desktop and mobile platforms."
+    "I'm a passionate Full-Stack Developer 🚀 with expertise in building dynamic, user-friendly web and mobile apps. I work with React.js / React Native / JavaScript / Node.js / Python / Django / AWS / Bootstrap / Material UI / Tailwind CSS / SASS / Docker / CI-CD / Firebase and other modern frameworks to create seamless, responsive experiences for both desktop and mobile platforms."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1qwqoACJ9cS0UpCJS1hjpkG0aIC1Pg9Ap/view",
+    "https://drive.google.com/file/d/1il8b3TN3_nmPuHE8Gr6JT7CZMrfiJkD7/view?usp=sharing",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -93,6 +93,12 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker",
     },
+    {
+      skillName: "Python",
+     
+      fontAwesomeClassname:"fab fa-python",
+    }
+
   ],
   display: true, // Set false to hide this section, defaults to true
 };
@@ -146,6 +152,20 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
+    {
+      role: "Lead Frontend Developer",
+      company: "Young minds matter",
+      companylogo: require("./assets/images/ymm.jpeg"),
+      date: "May - 2025 – Present",
+      desc: "Led the designed and developed responsive, accessible web interfaces using React.js and Next.js, ensuring high performance, code quality, and cross-functional collaboration.",
+    },
+    {
+      role: "Frontend Developer",
+      company: "East London Waterworks Park",
+      companylogo: require("./assets/images/easternWaterParkLogo.png"),
+      date: "May 2025 – Present",
+      desc: "Design and develop responsive, high performance web interfaces with React.js and Next.js, ensuring accessibility, code quality, and seamless team collaboration.",
+    },
     {
       role: "Fullstack developer",
       company: "CVHUB4AFRICA",
