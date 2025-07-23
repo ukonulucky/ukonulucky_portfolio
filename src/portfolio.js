@@ -157,7 +157,7 @@ const workExperiences = {
       company: "Young minds matter",
       companylogo: require("./assets/images/ymm.jpeg"),
       date: "May - 2025 – Present",
-      desc: "Led the designed and developed responsive, accessible web interfaces using React.js and Next.js, ensuring high performance, code quality, and cross-functional collaboration.",
+      desc: "Designed and built responsive, user-friendly web interfaces with React.js and Next.js, focusing on performance optimization, clean code practices, and effective collaboration across teams.",
     },
     {
       role: "Frontend Developer",
@@ -185,7 +185,7 @@ const workExperiences = {
       company: "Rivers State ICT Department",
       companylogo: require("./assets/images/techcreek.jpg"),
       date: "March 2021 – July 2021",
-      desc: "Building of several dynamic webpages that is fully responsive for both mobile, desktop and PC views using ReactJs.",
+      desc: "Building of several dynamic webpages that is fully responsive for both mobile, tablets and desktop views using ReactJs.",
     },
 
     {
@@ -219,7 +219,7 @@ const bigProjects = {
       image:
         "https://res.cloudinary.com/dtxai4k4r/image/upload/v1733843151/cubeet_h9caox.png",
       projectName: "Cubeet",
-      projectDesc: "Personalise The Journet For every OF Your Website Visitors",
+      projectDesc: "Personalise The Journey For every of Your Website Visitors",
       footerLink: [
         {
           name: "Visit Website",
